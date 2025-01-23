@@ -14,10 +14,4 @@ Validation: Ensures that user inputs are valid (e.g., rates and durations must b
 
 User-Friendly Interface: Simplified UI with clear navigation and instructions.
 
-Installation
 
-Prerequisites
-
-Node.js (version 14 or later)
-
-npm or yarn
